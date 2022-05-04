@@ -16,6 +16,14 @@ Please report any issues in the issues section on the GitHub if you have any and
 - Python 3 installed (May work on Python 2, but only tested on 3.8.5)
 - Latest version of Google Chrome/Chromium 
 
+### Monkeytype ToS & These scripts
+
+At the time of writing (4 May 2022), monkeytype prohibits botting typing tests. 
+
+As already agreed in the GNU licensing of this software:
+
+In no event unless required by applicable law or agreed to in writing will I or any other party who was involved in the creation/modification of this program as permitted above, be liable to you for damages, including general, special, incidential or consequential damages arising out of the use or inability to use the program (including but not limited to loss of data or data being rendered inaccurate or losesses sustained by you or third parties or a failure of the program to operate with any other programs), even if such holder or other party has been advised of the possibility of such damages.
+
 ### Installation
 
 To be able to use the bot, you must have the chrome web driver installed (included in the files) so that the program is able to control a Chrome window along with Python. 
@@ -23,12 +31,6 @@ To be able to use the bot, you must have the chrome web driver installed (includ
 You must also install Selenium, Pynput & PyAutoGUI through pip.
 
 ```pip3 install selenium pynput pyautogui```
-
-### Monkeytype ToS & Botting
-
-Monkeytype's ToS prohibits botting, and this code was tested on a locally hosted version of monkeytype as to avoid violating the anticheat. 
-
-I cannot be held responsible for any actions monkeytype may take against you, or your account for using this code. 
 
 #### MacOS
 On MacOS, you will need to install the Chrome Driver via homebrew along with using chromedriver file.
