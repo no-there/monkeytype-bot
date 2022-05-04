@@ -1,10 +1,9 @@
 # Monkeytype Bot
 <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
-A python bot that does the typing test for you.
 
-There are two different versions: script.py & script_anticheat.py
+There are two different versions: `script.py` & `script_anticheat.py`
 
-script.py is designed to go as fast as possible, while script_anticheat.py is designed to evade Monkeytype's anticheat. 
+`script.py` is designed to go as fast as possible, while `script_anticheat.py` is designed to evade Monkeytype's anticheat. 
 
 ### Reporting Issues
 
@@ -19,6 +18,8 @@ Please report any issues in the issues section on the GitHub if you have any and
 ### Monkeytype ToS & These scripts
 
 At the time of writing (4 May 2022), monkeytype prohibits botting typing tests. 
+
+This bot was tested using a locally hosted version of the monkeytype website (obtainable through their GitHub) as to avoid breaking their ToS. 
 
 As already agreed in the GNU licensing of this software:
 
